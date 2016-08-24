@@ -12,3 +12,7 @@ color:
     - '#E27A3F'
     - '#DF5A49'
 name: ACS IT Inc
+navigation:
+  - name: About Us
+    url: www.acsitinc.com
+    type: external
